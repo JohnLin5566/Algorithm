@@ -1,0 +1,39 @@
+/* A list of algorirthm code name.
+ * The star symbol "*" means that algorithm codes DO NOT be finish.
+ * The exclamation mark symbol "!" means that codes NEED to be debuged.
+ * /
+
+1.	Compute a factorial recursively.
+2.	A Function for Computing Factorials in a Tail Recursive Manner
+3.	Insertion Sort
+4.*	Insertion Sort
+5.	C program for implmentation of selection sort
+6.	C program for insertion sort
+7.	Linked list
+8.*	binary tree
+9.	C implementation of Heap Sort
+10.	C program for merge sort
+11.	Linear search
+12.	Recursive C implementation of Binary Search. Using random number to
+	creat a array and selectionSort the array.
+13.*	quick sort
+14.	linked list practice
+15.	Linked list practice
+16.	find all the permutation of a given string
+17.	structure and strcmp
+18.	Linked list practice, output the linked list with while
+19.	Introduction of Linked list
+20.	A complete working C program to demonstrate all insertion methods
+21.	Understand function insert_node
+22.	A complete working C program to demonstrate deletion in singly
+	linked list
+23.	Polynomials structure practice, textbook p.69
+24.	compare function, textbook p.12
+25.	Polynomials structure practice, textbook p.69
+26.	Prototype of "SparseMatrix Create"
+27.	Transposing a matrix
+28. printMatrix, textbook p.33
+29. Matrix multiplication function, textbook p.33
+30. fastTranspose, textbook p.78
+31. C program for array implementation of stack
+32. C program for linked list implementation of stack
